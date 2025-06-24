@@ -15,8 +15,8 @@ from telegram.ext import (
 )
 
 # Bot ayarların
-BOT_TOKEN      = "7933146275:AAF1XPi5cUffxRURPEQvbV6akou3rJSC_xk"
-ADMIN_GROUP_ID = -1002304737569  # Admin grubu
+BOT_TOKEN      = "7936867639:AAGJLC0rDQOG-woIJQvvcn5-i7anHGhK2wg"
+ADMIN_GROUP_ID = -1002532660895 # Admin grubu
 CHANNEL_ID     = -1002470083664  # Hedef kanal
 KANAL_LINK     = "https://t.me/ankara_istanbul7"  # İtiraf grubu
 BOT_LINK       = "https://t.me/goygoyitiraf_bot?start"  # Bot linki
